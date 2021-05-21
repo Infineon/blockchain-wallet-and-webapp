@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC Weblink</string>
+    <string name="hold_card_read_address">Tap a card against the back of your device. \n\nRead from key handle 1.</string>
+    <string name="hold_card_sign_transaction">Tap a card against the back of your device. \n\nUse key handle 1.</string>
+</resources>
