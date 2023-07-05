@@ -1,3 +1,7 @@
+# DEPRECATED
+
+**This repository is deprecated and will no longer be maintained. The preferred protocol is [WalletConnect](https://walletconnect.com/). Please refer to https://github.com/Infineon/secora-blockchain-walletconnect.**
+
 # Bridging Hardware Wallet and Web Application
 
 This repository contains an Android app and a web server to showcase the interaction of hardware wallets (commonly known as a cold wallet) and Ethereum network. The cold wallet being used here is an Infineon Blockchain contactless card ([Blockchain Security 2Go Starterkit](https://www.infineon.com/cms/en/product/evaluation-boards/blockchainstartkit/) or [SECORA™ Blockchain](https://www.infineon.com/blockchain)). To learn about the features of Blockchain Security 2Go Starterkit, please visit [here](https://github.com/Infineon/Blockchain/tree/master/doc).
